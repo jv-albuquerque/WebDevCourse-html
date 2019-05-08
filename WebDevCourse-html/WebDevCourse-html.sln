@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDevCourse-html", "WebDevCourse-html\WebDevCourse-html.csproj", "{18A86DF5-A8FA-4953-93FE-9869A66DAC77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18A86DF5-A8FA-4953-93FE-9869A66DAC77}.Debug|x86.ActiveCfg = Debug|x86
+		{18A86DF5-A8FA-4953-93FE-9869A66DAC77}.Debug|x86.Build.0 = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {788B06BB-6F1C-46A3-8C09-55B87929DD0C}
+	EndGlobalSection
+EndGlobal
