@@ -5,6 +5,7 @@
     <ProjectGuid>{18A86DF5-A8FA-4953-93FE-9869A66DAC77}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="formmating.html" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\scrolling-nav.css" />
     <Content Include="Content\Site.css" />
@@ -14,12 +15,17 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="forms.html" />
     <Content Include="helloworld.html" />
+    <Content Include="include-image.html" />
     <Content Include="my-webpage.html" />
+    <Content Include="ordered-list.html" />
     <Content Include="Paragraph.html" />
     <Content Include="Scripts\scrolling-nav.js" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="unordered-lists.html" />
+    <Content Include="meme.jpg" />
   </ItemGroup>
 </Project>
