@@ -5,6 +5,8 @@
     <ProjectGuid>{18A86DF5-A8FA-4953-93FE-9869A66DAC77}</ProjectGuid>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Earth.html" />
+    <Content Include="entities.html" />
     <Content Include="formmating.html" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\scrolling-nav.css" />
@@ -16,16 +18,27 @@
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
     <Content Include="forms.html" />
+    <Content Include="Images\googleLogo.png" />
     <Content Include="helloworld.html" />
+    <Content Include="iframes.html" />
     <Content Include="include-image.html" />
+    <Content Include="links.html" />
+    <Content Include="moon.html" />
     <Content Include="my-webpage.html" />
     <Content Include="ordered-list.html" />
     <Content Include="Paragraph.html" />
+    <Content Include="Images\earth.png" />
+    <Content Include="Images\moon.png" />
     <Content Include="Scripts\scrolling-nav.js" />
     <Content Include="index.html" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="tables.html" />
     <Content Include="unordered-lists.html" />
-    <Content Include="meme.jpg" />
+    <Content Include="Images\meme.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Further Reading 1 - HTML.pdf" />
+    <None Include="Reference 1 - HTML Tag Reference.pdf" />
   </ItemGroup>
 </Project>
